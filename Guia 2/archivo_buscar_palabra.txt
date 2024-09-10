@@ -1,0 +1,4 @@
+este es un archivo con palabras
+de prueba para buscar
+ palabras en 
+un archivo
