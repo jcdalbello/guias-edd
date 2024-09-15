@@ -1,1 +1,0 @@
-{"nombre": "Magistral", "precio": "100.0", "descripcion": "detergente", "caracteristicas": ["eficiente", "barato", "confiable"]}
